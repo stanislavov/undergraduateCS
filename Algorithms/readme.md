@@ -1,3 +1,3 @@
-1. ![](http://www.sciweavers.org/upload/Tex2Img_1521728874/render.png)
-1. ![](http://www.sciweavers.org/upload/Tex2Img_1521729141/render.png)
+1. ![1](http://latex.codecogs.com/gif.latex?f(x)=\begin{cases}5&x=0\\f(x-1)&plus;3&x\geq1\end{cases})
+1. ![2](http://latex.codecogs.com/gif.latex?f(x)=\begin{cases}0&x=0\\1&x=1\vee&space;x=2\\fib(x-1)&plus;fib(x-2)&x\geq3\end{cases})
 1.
